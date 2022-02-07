@@ -1,0 +1,25 @@
+
+        input[type = text]{
+            padding: 12px 20px; 
+            width: 50%;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        
+        div.formss{color:#000040; padding: 20px; margin: 45px; border-radius: 20px; background-color:#f2f2f2;}
+        div.meetings {color:#000040; padding: 20px; margin: 45px; border-radius: 20px; background-color: #eee0e0; font-size: 17px;}
+        div.work {color:#000040; padding: 20px; margin: 45px; border-radius: 20px; background-color: #eee5dc; font-size: 17px;}
+        div.image {text-align: center;}
+        div.benefit{color:#000040; padding: 20px; margin: 45px; border-radius: 20px; background-color:#c0eeee;  font-size: 17px;}
+        li{padding-left: 10px;}
+        h1 {font-family: Georgia, 'Times New Roman', Times, serif; color: #1B8C97; text-align: center;}
+        div.spam{color: #ff040b; padding: 20px; margin: 45px; border-radius: 20px; font-size: 20px;}
+        div.privacy{color:#000040; padding: 20px; margin: 45px; border-radius: 20px; background-color:#99ddd8;  font-size: 17px;}
+        div.sanction{color:#000000; padding: 20px; margin: 45px; border-radius: 20px; font-size: 17px;}
+        form.agreement{font-size: 20px;}
+        input[type=submit]{
+            background-color: #4caf50; border: none; color: white; padding: 16px 32px; text-decoration: none; margin: 20px 8px; cursor: pointer; border-radius: 10px;
+        }
